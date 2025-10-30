@@ -1,18 +1,19 @@
-# 👋 Xin chào / Hi there, I'm **Nguyễn Tuấn Anh**!
+# 👋 Xin chào, mình là Nguyễn Tuấn Anh!
 
-| 🇻🇳 **Tiếng Việt** | 🇬🇧 **English** |
-|--------------------|----------------|
-| 🎓 Sinh viên tại **Đại học Bình Dương** | 🎓 Student at **Binh Duong University** |
-| 💻 Chuyên ngành: **Software Engineering** | 💻 Major: **Software Engineering** |
-| 🌍 Quê quán: **Hà Tĩnh, Việt Nam** | 🌍 From: **Ha Tinh, Viet Nam** |
+🎓 Sinh viên tại **Đại học Bình Dương**  
+💻 Chuyên ngành theo đuổi: **Software Engineering**  
+🇻🇳 Quê quán: **Hà Tĩnh, Việt Nam**  
+## 🌐 Liên hệ
+📧 Email: **23050118@student.bdu.edu.vn**  
+💼 Portfolio: *Đang cập nhật...*  
 
 ---
 
-## 🌐 Liên hệ / Contact
-| 🇻🇳 **Tiếng Việt** | 🇬🇧 **English** |
-|--------------------|----------------|
-| 📧 Email: **23050118@student.bdu.edu.vn** | 📧 Email: **23050118@student.bdu.edu.vn** |
-| 💼 Portfolio: *Đang cập nhật...* | 💼 Portfolio: *Updating...* |
+# 👋 Hi, I'm Nguyen Tuan Anh!
 
---- 
-Design by Chat GPT
+🎓 Student at **Binh Duong University**  
+💻 Pursuit: **Software Engineering**  
+🇻🇳 From: **Ha Tinh, Viet Nam**
+## 🌐 Contact
+📧 Email: **23050118@student.bdu.edu.vn**  
+💼 Portfolio: *Updating...*  
