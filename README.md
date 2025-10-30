@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Xin chào / Hi there, I'm **Nguyễn Tuấn Anh**!
 
-<!--
-**NguyenTAnh2005/NguyenTAnh2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| 🇻🇳 **Tiếng Việt** | 🇬🇧 **English** |
+|--------------------|----------------|
+| 🎓 Sinh viên tại **Đại học Bình Dương** | 🎓 Student at **Binh Duong University** |
+| 💻 Chuyên ngành: **Software Engineering** | 💻 Major: **Software Engineering** |
+| 🌍 Quê quán: **Hà Tĩnh, Việt Nam** | 🌍 From: **Ha Tinh, Viet Nam** |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Liên hệ / Contact
+| 🇻🇳 **Tiếng Việt** | 🇬🇧 **English** |
+|--------------------|----------------|
+| 📧 Email: **23050118@student.bdu.edu.vn** | 📧 Email: **23050118@student.bdu.edu.vn** |
+| 💼 Portfolio: *Đang cập nhật...* | 💼 Portfolio: *Updating...* |
+
+--- 
+Design by Chat GPT
