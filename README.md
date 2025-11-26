@@ -1,11 +1,10 @@
 # 👋 Xin chào, mình là Nguyễn Tuấn Anh!
 
 🎓 Sinh viên tại **Đại học Bình Dương**  
-💻 Chuyên ngành theo đuổi: **Software Engineering**  
+💻 Chuyên ngành theo đuổi: **Kỹ Thuật Phần Mềm**  
 🇻🇳 Quê quán: **Hà Tĩnh, Việt Nam**  
 ## 🌐 Liên hệ
 📧 Email: **23050118@student.bdu.edu.vn**  
-💼 Portfolio: *Đang cập nhật...*  
 
 ---
 
@@ -16,4 +15,3 @@
 🇻🇳 From: **Ha Tinh, Viet Nam**
 ## 🌐 Contact
 📧 Email: **23050118@student.bdu.edu.vn**  
-💼 Portfolio: *Updating...*  
