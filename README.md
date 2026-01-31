@@ -72,6 +72,7 @@
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=&logo=react&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=&logo=fastapi)
+![JWT](https://img.shields.io/badge/JWT-black?style=&logo=JSON%20web%20tokens)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=&logo=postman&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=&logo=react-router&logoColor=white)
 
