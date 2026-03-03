@@ -30,7 +30,7 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=&logo=python&logoColor=ffdd54)
 
-### 📦 Framework:
+### 📦 Frameworks, Library:
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=&logo=bootstrap&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=&logo=.net&logoColor=white)
