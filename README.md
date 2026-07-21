@@ -21,99 +21,104 @@
 # 💻 Tech Stack:
 
 ## 👾 Programing Language:
+
 <b>`Frontend UI Core:`</b> &nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
-<sup><b>`Basic Programming:`</b></sup> &nbsp;&nbsp;
+<b>`Basic Programming:`</b> &nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ## 📦 Frameworks, Library:
-<sup><b>`Framework:`</b></sup> &nbsp;&nbsp;
+
+<b>`Framework:`</b> &nbsp;&nbsp;
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 
-<sup><b>`Library:`</b></sup> &nbsp;&nbsp;
+<b>`Library:`</b> &nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ## 🗄️ Database:
-<sup><b>`Database:`</b></sup> &nbsp;&nbsp;
+
+<b>`Database:`</b> &nbsp;&nbsp;
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 
 ## ☁️ Deployment, Cloud:
-<sup><b>`Database:`</b></sup> &nbsp;&nbsp;
+
+<b>`Database:`</b> &nbsp;&nbsp;
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 
-<sup><b>`Frontend - Backend:`</b></sup> &nbsp;&nbsp;
+<b>`Frontend - Backend:`</b> &nbsp;&nbsp;
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white)
 
-
 ## 🛠️ Tools & Version Control:
-<sup><b>`Control Project Code:`</b></sup> &nbsp;&nbsp;
+
+<b>`Control Project Code:`</b> &nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 ## 🎨 Others:
-<sup><b>`Design:`</b></sup> &nbsp;&nbsp;
+
+<b>`Design:`</b> &nbsp;&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
 
-<sup><b>`Debug:`</b></sup> &nbsp;&nbsp;
+<b>`Debug:`</b> &nbsp;&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
 
-<sup><b>`Authentication:`</b></sup> &nbsp;&nbsp;
+<b>`Authentication:`</b> &nbsp;&nbsp;
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
 
-## 🔍 Currently  Deep Diving::
+## 🔍 Currently Deep Diving::
 
-<sup><b>`Frontend - Backend:`</b></sup> &nbsp;&nbsp;
+<b>`Frontend - Backend:`</b> &nbsp;&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
 
-<sup><b>`Backend:`</b></sup> &nbsp;&nbsp;
+<b>`Backend:`</b> &nbsp;&nbsp;
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-<sup><b>`[SYNC]`</b></sup> &nbsp; ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
+<b>`[SYNC]`</b> &nbsp; ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
 
-<sup><b>`Manage:`</b></sup> &nbsp;&nbsp;
+<b>`Manage:`</b> &nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
-<sup><b>`Tool:`</b></sup> &nbsp;&nbsp;
+<b>`Tool:`</b> &nbsp;&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
 
 ## 🛠️ Expanding in future:
 
-<sup><b>`SQL QUERY:`</b></sup> &nbsp;&nbsp;
+<b>`SQL QUERY:`</b> &nbsp;&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 
-<sup><b>`FRONTEND`</b></sup> &nbsp;&nbsp;
+<b>`FRONTEND`</b> &nbsp;&nbsp;
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 
-<sup><b>`BACKEND:`</b></sup> &nbsp;&nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) <sup><b>`[ASYNC]`</b></sup> &nbsp;
+<b>`BACKEND:`</b> &nbsp;&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) <b>`[ASYNC]`</b> &nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
 
-<sup><b>`ALGORIMTH:`</b></sup> &nbsp;&nbsp;
+<b>`ALGORIMTH:`</b> &nbsp;&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-<sup><b>`MOBILE APP:`</b></sup> &nbsp;&nbsp;
+<b>`MOBILE APP:`</b> &nbsp;&nbsp;
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 
-<sup><b>`CORE:`</b></sup> &nbsp;&nbsp;
+<b>`CORE:`</b> &nbsp;&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
