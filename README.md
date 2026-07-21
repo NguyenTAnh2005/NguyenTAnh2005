@@ -21,7 +21,7 @@
 # 💻 Tech Stack:
 
 ## 👾 Programing Language:
-<sup>`Frontend UI Core`</sup> &nbsp;&nbsp;
+`Frontend UI Core:`&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
