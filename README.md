@@ -1,26 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6a11cb,50:2575fc,100:00d4ff&height=260&section=header&text=Nguyễn%20Tuấn%20Anh&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Binh%20Duong%20University&descAlignY=60&descSize=20" width="100%"/>
+### 🤖 Made by Deepseek AI
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+I'm+Tuan+Anh+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%8E%93;Full-stack+Developer+in+progress+%F0%9F%92%BB;Welcome+to+my+GitHub+%F0%9F%8C%8D&font=Fira%20Code&center=true&width=650&height=50&color=00d4ff&vCenter=true&size=26&pause=1200&duration=3000" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:2563eb,100:3b82f6&height=200&section=header&text=Nguyễn%20Tuấn%20Anh&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineering%20Student%20%7C%20Binh%20Duong%20University&descAlignY=62&descSize=18" width="100%"/>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=NguyenTAnh2005&color=6a11cb&style=plastic&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/NguyenTAnh2005?style=plastic&logo=github&color=2575fc)
-![Stars](https://img.shields.io/github/stars/NguyenTAnh2005?style=plastic&logo=github&color=00d4ff)
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+I'm+Tuan+Anh+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%8E%93;Full-stack+Developer+in+progress+%F0%9F%92%BB&font=Fira%20Code&center=true&width=650&height=50&color=3b82f6&vCenter=true&size=24&pause=1200&duration=3000" />
 
 <br/>
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=Facebook&logoColor=white)](https://www.facebook.com/tuan.anh.514281/?locale=vi_VN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white)](https://www.instagram.com/tanh_2005_/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:23050118@student.bdu.edu.vn)
+![Profile Views](https://komarev.com/ghpvc/?username=NguyenTAnh2005&color=3b82f6&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/NguyenTAnh2005?style=flat-square&logo=github&color=3b82f6)
+![Stars](https://img.shields.io/github/stars/NguyenTAnh2005?style=flat-square&logo=github&color=3b82f6)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<br/>
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/tuan.anh.514281/?locale=vi_VN)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/tanh_2005_/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:23050118@student.bdu.edu.vn)
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
@@ -36,8 +36,6 @@ hometown: Hà Tĩnh, Việt Nam
 email: 23050118@student.bdu.edu.vn
 ```
 
-<br/>
-
 <div align="center">
 
 ## 🧰 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
@@ -45,16 +43,12 @@ email: 23050118@student.bdu.edu.vn
 </div>
 
 ```yaml
-languages:  [Python, C#, JavaScript, C++, HTML/CSS]
+languages: [Python, C#, JavaScript, C++, HTML/CSS]
 frameworks: [.NET, Bootstrap, React, TailwindCSS, FastAPI]
-database:   [PostgreSQL, Supabase]
-deploy:     [Vercel, Render]
-tools:      [Git, GitHub]
+database: [PostgreSQL, Supabase]
+deploy: [Vercel, Render]
+tools: [Git, GitHub]
 ```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-<br/>
 
 <div align="center">
 
@@ -73,8 +67,6 @@ tools:      [Git, GitHub]
 
 </div>
 
-<br/>
-
 <div align="center">
 
 ## 🔍 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗶𝗻𝗴
@@ -83,11 +75,9 @@ tools:      [Git, GitHub]
 
 ```yaml
 frontend: [React, TailwindCSS, React Router]
-backend:  [FastAPI (sync), Swagger, JWT]
-tools:    [Git, GitHub]
+backend: [FastAPI (sync), Swagger, JWT]
+tools: [Git, GitHub]
 ```
-
-<br/>
 
 <div align="center">
 
@@ -96,24 +86,20 @@ tools:    [Git, GitHub]
 </div>
 
 ```yaml
-frontend:  [Next.js]
-backend:   [FastAPI (async), Postman]
-database:  [PostgreSQL]
-mobile:    [React Native]
-devops:    [AWS, Docker, Nginx]
+frontend: [Next.js]
+backend: [FastAPI (async), Postman]
+database: [PostgreSQL]
+devops: [AWS, Docker, Nginx]
 algorithm: [C++]
+mobile: [React Native]
 ```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=%E2%AD%90+Thanks+for+visiting+%E2%80%94+feel+free+to+connect!&font=Fira%20Code&center=true&width=600&height=40&color=2575fc&vCenter=true&size=20&pause=1500" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,50:6a11cb,100:00d4ff&height=140&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:2563eb,100:1e3a5f&height=120&section=footer" />
 
 <br/>
 
-![Designed by Claude](https://img.shields.io/badge/designed_by-Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Designed by Claude](https://img.shields.io/badge/designed_by-Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 
 </div>
