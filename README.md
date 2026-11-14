@@ -1,7 +1,5 @@
 <div align="center">
 
-### 🤖 Made by Deepseek AI
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:2563eb,100:3b82f6&height=200&section=header&text=Nguyễn%20Tuấn%20Anh&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineering%20Student%20%7C%20Binh%20Duong%20University&descAlignY=62&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+I'm+Tuan+Anh+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%8E%93;Full-stack+Developer+in+progress+%F0%9F%92%BB&font=Fira%20Code&center=true&width=650&height=50&color=3b82f6&vCenter=true&size=24&pause=1200&duration=3000" />
